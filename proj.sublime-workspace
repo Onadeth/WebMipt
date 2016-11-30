@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"two"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"E",
+				"EXIT_FAILURE"
+			],
+			[
+				"fd",
+				"fd_2_string"
+			],
+			[
+				"p",
+				"pipestr"
+			],
+			[
+				"arg",
+				"argc"
+			],
+			[
+				"char",
+				"charfd"
+			],
+			[
+				"a",
+				"argv"
+			],
+			[
+				"r",
+				"realloc"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"se",
+				"sizeof"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"parent",
+				"parent"
+			],
+			[
+				"get",
+				"getpid"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"arr",
+				"arrNum"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"cou",
+				"countOfArraival"
+			],
+			[
+				"rea",
+				"readTest"
+			],
+			[
+				"N",
+				"numTest"
+			],
+			[
+				"co",
+				"countOfArraival"
+			],
+			[
+				"dst",
+				"dst_coords"
+			],
+			[
+				"MPI_Ca",
+				"MPI_Cart_coords"
+			],
+			[
+				"to",
+				"torus_comm"
+			],
+			[
+				"MPI",
+				"MPI_Cart_shift"
+			],
+			[
+				"ra",
+				"rank_coords"
+			],
+			[
+				"MAX",
+				"MAX_BUFF_SIZE"
+			],
+			[
+				"torus",
+				"torus_comm"
+			],
+			[
+				"d",
+				"direction"
+			],
+			[
+				"torus_",
+				"torus_comm"
+			],
+			[
+				"wo",
+				"world_rank"
+			],
+			[
+				"o",
+				"operator"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"h",
+				"hour"
+			],
+			[
+				"w",
+				"wrap_around"
+			],
+			[
+				"s",
+				"start_time"
+			],
+			[
+				"f",
+				"finish_time"
+			],
+			[
+				"en",
+				"end_time"
+			],
+			[
+				"ping",
+				"ping_pong_count"
+			],
+			[
+				"_",
+				"_str"
+			],
+			[
+				"ca",
+				"char"
+			],
+			[
+				"_s",
+				"_string"
+			],
+			[
+				"the",
+				"theInputArray"
+			],
+			[
+				"MP",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"MPI_",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"IN",
+				"Inc	#include <…>"
+			],
+			[
+				"barr",
+				"barrierLock"
+			],
+			[
+				"num",
+				"num_steps"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"om",
+				"omp_get_wtime"
+			],
+			[
+				"ugl",
+				"ugl"
+			],
+			[
+				"ugly",
+				"ugly_sum"
+			],
+			[
+				"pi",
+				"pi"
+			],
+			[
+				"file",
+				"file_read"
+			],
+			[
+				"if",
+				"ifstream"
+			],
+			[
+				"data",
+				"dataSize"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/nightingale/WebMipt/index.html",
+		"/home/nightingale/WebMipt/styles.css",
+		"/home/nightingale/Документы/sem9_1.c",
+		"/home/nightingale/dev/SimpleTaskManager/app.py",
+		"/home/nightingale/double_example.c",
+		"/home/nightingale/Документы/double_example.c",
+		"/home/nightingale/dev/SimpleTaskManager/index.html",
+		"/home/nightingale/kek.py",
+		"/home/nightingale/OSSystemprogramms/talk.c",
+		"/home/nightingale/Документы/To_paste.txt",
+		"/home/nightingale/Документы/CODIGO-COPIA_PEGA.txt",
+		"/home/nightingale/mipt-web-2016/lections/02/code/news/index.html",
+		"/home/nightingale/mipt-web-2016/lections/02/code/news/styles.css",
+		"/home/nightingale/OSSystemprogramms/1.c",
+		"/home/nightingale/OSSystemprogramms/2.c",
+		"/home/nightingale/OSSystemprogramms/TEST.c",
+		"/home/nightingale/OS System programms/test_fork.c",
+		"/home/nightingale/Документы/sq_method.c",
+		"/home/nightingale/OS System programms/max_buffer_sz.c",
+		"/home/nightingale/Документы/startvdimipt41006",
+		"/home/nightingale/Desktop/startvdimipt41806",
+		"/home/nightingale/MPI/pingpong.c",
+		"/home/nightingale/Prog/max_massive.cpp",
+		"/home/nightingale/Prog/for_par.c",
+		"/home/nightingale/Prog/compl.cpp",
+		"/home/nightingale/Prog/complex.cpp",
+		"/home/nightingale/Prog/barrier_Solovyov.c",
+		"/home/nightingale/MPI/test.c",
+		"/home/nightingale/MPI/tor.c",
+		"/etc/postgresql/9.3/main/pg_hba.conf",
+		"/home/nightingale/Ааа/mpi_sort.cpp",
+		"/home/nightingale/Ааа/LSP.cpp",
+		"/home/nightingale/Prog/untitled.cpp",
+		"/home/nightingale/Prog/dfdf.cpp",
+		"/home/nightingale/Prog/bubbleTest1",
+		"/home/nightingale/Prog/barrier.c",
+		"/home/nightingale/9sep19/main.cpp",
+		"/home/nightingale/Prog/hole/1Tink.cpp",
+		"/home/nightingale/Prog/hole/4Tin.cpp",
+		"/home/nightingale/Вопросы",
+		"/home/nightingale/Документы/РосинтерБанк:",
+		"/home/nightingale/Документы/Кафедра высшей математики,Кафедра общей физики,Каф",
+		"/home/nightingale/Документы/nstkhn",
+		"/home/nightingale/Документы/Week 7",
+		"/home/nightingale/MailGetter/mailGetter.py",
+		"/home/nightingale/MailGetter/Порядок действий",
+		"/home/nightingale/COCOS_PROJ/FLAPPY_PROJ_DIR/Nightingale-Flappy-Bird/proj.linux/main.cpp",
+		"/home/nightingale/COCOS_PROJ/FLAPPY_PROJ_DIR/Nightingale-Flappy-Bird/Classes/AppDelegate.cpp",
+		"/home/nightingale/Cocos2d-x-Flappy-Bird-C---Tutorial-2---Creating-The-Scene-master/Classes/AppDelegate.cpp",
+		"/home/nightingale/Cocos2d-x-Flappy-Bird-C---Tutorial-2---Creating-The-Scene-master/Classes/AppDelegate.h",
+		"/home/nightingale/Cocos2d-x-Flappy-Bird-C---Tutorial-2---Creating-The-Scene-master/Classes/GameScene.cpp",
+		"/home/nightingale/Cocos2d-x-Flappy-Bird-C---Tutorial-2---Creating-The-Scene-master/Classes/SplashScene.cpp",
+		"/home/nightingale/Cocos2d-x-Flappy-Bird-C---Tutorial-2---Creating-The-Scene-master/Classes/GameOverScene.cpp",
+		"/home/nightingale/Cocos2d-x-Flappy-Bird-C---Tutorial-2---Creating-The-Scene-master/Classes/MainMenuScene.cpp",
+		"/home/nightingale/Ааа/mpi_e.cpp",
+		"/home/nightingale/COCOS_PROJ/FLAPPY_PROJ_DIR/Nightingale-Flappy-Bird/Classes/Pipe.cpp",
+		"/home/nightingale/COCOS_PROJ/FLAPPY_PROJ_DIR/Nightingale-Flappy-Bird/Classes/Definitions.h",
+		"/home/nightingale/Base/lts.8b10b/src/testbench.c",
+		"/home/nightingale/lts.8b10b/src/calc.c",
+		"/home/nightingale/lts.8b10b/src/calc.h",
+		"/home/nightingale/lts.8b10b/src/testbench.c",
+		"/home/nightingale/lts.8b10b/src/testbench.h",
+		"/home/nightingale/lts.8b10b/src/main.c",
+		"/home/nightingale/Ааа/HomeTask3.c",
+		"/home/nightingale/Prog/untitled2.cpp",
+		"/home/nightingale/.cache/.fr-xI0izu/1.2_matrix_mult/1.2_matrix_mult/main.cpp",
+		"/home/nightingale/GitProjects/customStringClass/untitled.cpp",
+		"/home/nightingale/GitProjects/customStringClass/customString.cpp",
+		"/home/nightingale/OOP_proect.txt",
+		"/home/nightingale/dictionary_proj/untitled.cpp",
+		"/home/nightingale/phoenix-master/README.md",
+		"/home/nightingale/stringClass.cpp",
+		"/home/nightingale/MPI/testOOPProject.cpp",
+		"/home/nightingale/test1/lts.8b10b/src/calc.c",
+		"/home/nightingale/test1/lts.8b10b/src/testbench.c",
+		"/home/nightingale/test1/lts.8b10b/src/main.c",
+		"/home/nightingale/test1/lts.8b10b/src/testbench.h",
+		"/home/nightingale/test1/lts.8b10b/src/calc.h",
+		"/home/nightingale/untitled/par.lts.8b10b/src/testbench.c",
+		"/home/nightingale/untitled/par.lts.8b10b/src/main.c",
+		"/home/nightingale/Документы/lts.8b10b/src/testbench.c",
+		"/home/nightingale/Документы/lts.8b10b/src/testbench.h",
+		"/home/nightingale/Документы/lts.8b10b/src/calc.h",
+		"/home/nightingale/Документы/lts.8b10b/src/calc.c",
+		"/home/nightingale/Документы/lts.8b10b/src/main.c",
+		"/home/nightingale/untitled/main.cpp",
+		"/home/nightingale/Base/lts.8b10b/src/calc.c",
+		"/home/nightingale/Base/lts.8b10b/src/calc.h",
+		"/home/nightingale/Base/lts.8b10b/src/testbench.h",
+		"/home/nightingale/Base/lts.8b10b/src/main.c",
+		"/home/nightingale/barrier_Solovyov_nest.c",
+		"/home/nightingale/Desktop/gcov - покрытие",
+		"/home/nightingale/Prog/for_par.cpp",
+		"/home/nightingale/Desktop/max_massive.cpp",
+		"/home/nightingale/Desktop/for_par.cpp",
+		"/home/nightingale/Desktop/a1.cpp",
+		"/home/nightingale/Desktop/gurbage.cpp",
+		"/home/nightingale/Prog/New Folder/style.css",
+		"/home/nightingale/Prog/New Folder/index.html",
+		"/home/nightingale/Prog/New Folder/batman_logo-wallpaper-1600x900.jpg",
+		"/home/nightingale/Prog/index.html",
+		"/home/nightingale/Desktop/bitArray.cpp",
+		"/home/nightingale/Desktop/sdffdssdf.cpp",
+		"/home/nightingale/Desktop/Prob.c",
+		"/home/nightingale/Desktop/pi.cpp",
+		"/home/nightingale/toBoldDude/bitMass.cpp",
+		"/home/nightingale/Prog/searchPrime/fun_lib.cpp",
+		"/home/nightingale/Prog/searchPrime/fun_lib.h",
+		"/home/nightingale/Desktop/lec.cpp",
+		"/home/nightingale/Desktop/a.cpp",
+		"/home/nightingale/Desktop/master_single_barrier.c",
+		"/home/nightingale/Desktop/pi_parallel.c",
+		"/home/nightingale/Desktop/asdf.cpp",
+		"/home/nightingale/Desktop/PIzdec.c",
+		"/home/nightingale/Desktop/sound.cpp",
+		"/home/nightingale/Desktop/untitled.cpp",
+		"/home/nightingale/Desktop/a2.cpp",
+		"/home/nightingale/Desktop/MP.c",
+		"/home/nightingale/dictionary_proj/n_parsed_dic",
+		"/home/nightingale/Рабочий стол/defaults.list",
+		"/home/nightingale/Рабочий стол/Qt-Creator.desktop",
+		"/home/nightingale/Prog/bubbleTest1.c",
+		"/home/nightingale/Рабочий стол/bubbleTest1",
+		"/home/nightingale/Документы/Sublime Text 2/sublime_text"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fd",
+			"grid_comm",
+			"the",
+			"//\n",
+			"h",
+			"/*\n",
+			"omp_init_lock",
+			"motherfucker"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"torus_comm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
